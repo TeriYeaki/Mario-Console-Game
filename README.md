@@ -30,8 +30,9 @@ Built on the **Monash game engine** as a university assignment in object-oriente
 
 ## Screenshot
 
-image.png
-image.png
+<img width="601" height="395" alt="image" src="https://github.com/user-attachments/assets/ea8af4a0-1562-4cd1-93fa-c6f3e15651f2" />
+<img width="588" height="448" alt="image" src="https://github.com/user-attachments/assets/b0b2a8f9-006b-4f15-ac2a-457347f3aa40" />
+
 
 ---
 
